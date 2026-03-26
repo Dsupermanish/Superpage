@@ -24,9 +24,9 @@
 **Hackathon:** PL_Genesis: Frontiers of Collaboration
 
 **Primary Tracks:**
-- 🤖 **Agent Only: Let the agent cook** ($4,000) — Fully autonomous agent with ERC-8004 identity
-- 🔐 **Agents With Receipts — 8004** ($4,004) — Trust framework for autonomous agents
-- 🤖 **AI & Robotics** ($6,000) — Agent coordination & commerce infrastructure
+- 🤖 **Agent Only: Let the agent cook**  — Fully autonomous agent with ERC-8004 identity
+- 🔐 **Agents With Receipts — 8004**  — Trust framework for autonomous agents
+- 🤖 **AI & Robotics**  — Agent coordination & commerce infrastructure
 
 **What it is:** A production-ready autonomous agent commerce platform that enables AI agents to discover, purchase, and monetize digital resources using on-chain USDC payments. Agents operate as independent economic actors with their own wallets, businesses, and on-chain reputation.
 
